@@ -472,7 +472,7 @@ The risk scoring and triage methodology are **simplified for educational purpose
 ## 📬 Contact
 
 **Author:** Antoine Edouard, GRC
-**GitHub:** [@your-username](https://github.com/antoine-edouard)
-**LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/antoine-edouard/)
+**GitHub:** [https://github.com/antoine-edouard](https://github.com/antoine-edouard)
+**LinkedIn:** [https://www.linkedin.com/in/antoine-edouard/](https://www.linkedin.com/in/antoine-edouard/)
 
 *Feedback, suggestions, and collaboration inquiries are welcome.*
