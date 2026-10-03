@@ -36,24 +36,24 @@ The project uses a **fictional and synthetic healthcare IT asset inventory** cre
 
 ---
 
-## 🔒 Data Privacy Notice
+## Data Privacy Notice
 
 **All data used in this project is fictional and created for educational purposes.**
 
 The project does **not** contain:
 
-- ❌ Real Protected Health Information (PHI)
-- ❌ Real patient records
-- ❌ Employee information
-- ❌ Credentials
-- ❌ Real research data
-- ❌ Confidential organizational information
+- Real Protected Health Information (PHI)
+- Real patient records
+- Employee information
+- Credentials
+- Real research data
+- Confidential organizational information
 
 The healthcare environment is a **simulated scenario** designed to demonstrate cybersecurity analysis and asset-triage techniques.
 
 ---
 
-## 🏥 Why Healthcare Asset Security Matters
+## Why Healthcare Asset Security Matters
 
 Healthcare cybersecurity must address the **confidentiality, integrity, and availability** of systems and information.
 
@@ -90,7 +90,7 @@ Data Exposure / Operational Disruption
 
 ---
 
-## ⚠️ Risk Factors Used in the Project
+## Risk Factors Used in the Project
 
 Asset risk is treated as **multidimensional** rather than being based on age alone.
 
@@ -109,7 +109,7 @@ Asset risk is treated as **multidimensional** rather than being based on age alo
 
 ---
 
-## 🔄 IT Asset Lifecycle Management
+## IT Asset Lifecycle Management
 
 Cybersecurity considerations should be incorporated throughout the asset lifecycle:
 
@@ -138,7 +138,7 @@ Planning → Procurement → Deployment → Active Operation
 
 ---
 
-## 🧩 Asset Triage
+## Asset Triage
 
 Asset triage helps security teams determine **which systems may require additional investigation or remediation**. The project considers **combinations of evidence** rather than treating a single attribute as a complete risk assessment.
 
@@ -154,7 +154,7 @@ A low-criticality workstation that is **current**, **fully patched**, **protecte
 
 ---
 
-## 🔍 Asset Conditions
+## Asset Conditions
 
 ### Vulnerable
 
@@ -176,7 +176,7 @@ An erroneous asset record contains inaccurate or inconsistent information — su
 
 ---
 
-## 🎯 Security Triage Model
+## Security Triage Model
 
 ```text
 Asset Criticality
@@ -204,7 +204,7 @@ The resulting priority is used to **identify assets that may warrant additional 
 
 ---
 
-## 🛡️ Security Controls Considered
+## Security Controls Considered
 
 | Control Area | Description |
 |--------------|-------------|
@@ -220,7 +220,7 @@ The resulting priority is used to **identify assets that may warrant additional 
 
 ---
 
-## 🚨 Potential Impact of a Compromised Asset
+## Potential Impact of a Compromised Asset
 
 The potential impact depends on the asset's **function, criticality, accessible information, connectivity, and security controls**.
 
@@ -235,7 +235,7 @@ The potential impact depends on the asset's **function, criticality, accessible 
 
 ---
 
-## 📊 Project Objectives
+## Project Objectives
 
 This project demonstrates the ability to:
 
@@ -257,7 +257,7 @@ This project demonstrates the ability to:
 
 ---
 
-## 🤖 AI-Assisted Cybersecurity Analysis
+## AI-Assisted Cybersecurity Analysis
 
 AI is used as a **learning assistant** rather than as an authority. It may assist with Python, troubleshooting, cybersecurity concepts, analytical approaches, visualization ideas, documentation review, investigation questions, and security-control exploration.
 
@@ -279,7 +279,7 @@ Document the Findings
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**
 - **Pandas**
@@ -295,7 +295,7 @@ Document the Findings
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Healthcare-IT-Asset-Cybersecurity/
@@ -334,7 +334,7 @@ openpyxl>=3.1.0
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Option 1 — Run in Google Colab (Recommended)
 
@@ -358,7 +358,7 @@ jupyter notebook notebooks/Healthcare_IT_Asset_Cybersecurity_Triage.ipynb
 
 ---
 
-## 🎓 Career Connection
+## Career Connection
 
 This project supports a **transition from IT into cybersecurity** by combining existing IT experience with practical security analysis.
 
@@ -378,7 +378,7 @@ Relevant areas include:
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 ### Cybersecurity
 - Asset Management
@@ -413,7 +413,7 @@ Relevant areas include:
 
 ---
 
-## 📌 Key Takeaway
+## Key Takeaway
 
 Effective healthcare cybersecurity begins with **understanding the technology environment**.
 
@@ -439,7 +439,7 @@ Monitor Continuously
 
 ---
 
-## 📊 Project Status
+## Project Status
 
 | Category | Details |
 |----------|---------|
@@ -449,11 +449,11 @@ Monitor Continuously
 | **Data** | Synthetic / Fictional |
 | **Primary Focus** | Healthcare IT Asset Management & Cybersecurity |
 | **Career Focus** | SOC / Infrastructure Security |
-| **Status** | 🚧 In Progress |
+| **Status** | In Progress |
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This is an **educational cybersecurity portfolio project** using **fictional and synthetic data**.
 
@@ -469,10 +469,21 @@ The risk scoring and triage methodology are **simplified for educational purpose
 
 ---
 
-## 📬 Contact
+## Contact
 
-**Author:** Antoine Edouard, GRC
-**GitHub:** [https://github.com/antoine-edouard](https://github.com/antoine-edouard)
-**LinkedIn:** [https://www.linkedin.com/in/antoine-edouard/](https://www.linkedin.com/in/antoine-edouard/)
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 4px 12px 4px 0;"><strong>Author</strong></td>
+    <td style="border: none; padding: 4px 0;">Antoine Edouard, GRC</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 4px 12px 4px 0;"><strong>GitHub</strong></td>
+    <td style="border: none; padding: 4px 0;"><a href="https://github.com/antoine-edouard">https://github.com/antoine-edouard</a></td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 4px 12px 4px 0;"><strong>LinkedIn</strong></td>
+    <td style="border: none; padding: 4px 0;"><a href="https://www.linkedin.com/in/antoine-edouard/">https://www.linkedin.com/in/antoine-edouard/</a></td>
+  </tr>
+</table>
 
 *Feedback, suggestions, and collaboration inquiries are welcome.*
