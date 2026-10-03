@@ -1,0 +1,16 @@
+Asset_ID,Asset_Type,Department,Criticality,Data_Sensitivity,Internet_Exposed,Connectivity_Level,Lifecycle_Status,Vulnerability_Status,Asset_Condition,Security_Tool,Patch_Status,Days_Since_Patch,Risk_Score,Triage_Priority
+HC-011,Database Server,Health Information,Critical,Patient Data,No,Restricted,End-of-Support,Vulnerable,Degraded,None,Review Required,427,15,High Priority
+HC-013,Medical Device,Emergency Department,High,Patient Data,No,Internal,End-of-Support,Vulnerable,Defective,None,Review Required,488,15,High Priority
+HC-003,Medical Device,Radiology,Critical,Patient Data,No,Restricted,Aging,Vulnerable,Degraded,None,Review Required,305,13,High Priority
+HC-008,Medical Device,Cardiology,High,Patient Data,No,Internal,Aging,Vulnerable,Defective,None,Review Required,366,13,High Priority
+HC-001,Database Server,Health Information,Critical,Patient Data,No,Restricted,Active,Current,Healthy,EDR,Current,17,5,Low Priority
+HC-012,Firewall,Network Operations,Critical,Infrastructure Data,Yes,Internet-Facing,Active,Current,Healthy,Firewall Monitoring,Current,12,5,Low Priority
+HC-004,Workstation,Clinical Operations,High,Patient Data,No,Internal,Active,Current,Healthy,EDR,Current,43,4,Low Priority
+HC-005,Laptop,Administration,Medium,Organizational Data,Yes,Internet-Facing,Active,Current,Healthy,EDR,Current,79,3,Low Priority
+HC-006,Network Switch,Network Operations,High,Infrastructure Data,No,Internal,Active,Current,Healthy,Network Monitoring,Current,62,2,Low Priority
+HC-002,Application Server,Clinical Operations,High,Patient Data,Yes,Internet-Facing,Active,Review Required,Healthy,EDR,Review Required,154,8,Medium Priority
+HC-014,Application Server,Clinical Operations,High,Patient Data,Yes,Internet-Facing,Active,Review Required,Healthy,EDR,Review Required,109,8,Medium Priority
+HC-015,Laptop,Research,Medium,Research Data,Yes,Internet-Facing,Aging,Review Required,Degraded,EDR,Review Required,260,8,Medium Priority
+HC-007,Research Server,Research,Critical,Research Data,No,Restricted,Active,Review Required,Healthy,EDR,Review Required,170,7,Medium Priority
+HC-009,File Server,Health Information,Critical,Patient Data,No,Restricted,Active,Review Required,Healthy,EDR,Review Required,215,7,Medium Priority
+HC-010,Workstation,Clinical Operations,Medium,Organizational Data,No,Internal,End-of-Support,Vulnerable,Degraded,EDR,Current,31,7,Medium Priority

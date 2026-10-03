@@ -1,0 +1,9 @@
+Metric,Count,Severity,Category,Percent
+Total Assets,15,Neutral,Overview,100.0
+Vulnerable Assets,5,Critical,Exposure,33.3
+Internet-Facing Assets,5,High,Exposure,33.3
+End-of-Support Assets,3,High,Exposure,20.0
+Assets Without Security Tool,4,High,Controls,26.7
+Degraded Assets,4,Medium,Condition,26.7
+Defective Assets,2,Critical,Condition,13.3
+High-Priority Assets,4,Critical,Triage,26.7
