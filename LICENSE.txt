@@ -1,0 +1,20 @@
+## License
+
+Copyright (c) 2026 [Your Full Name]. All rights reserved.
+
+This repository is provided solely for educational portfolio review.
+
+No permission is granted to copy, modify, distribute, sublicense, sell, or use
+the code, documentation, visualizations, synthetic data, or other materials in
+this repository without the prior written permission of the copyright holder.
+
+This repository was developed as an educational portfolio project through Per
+Scholas Cybersecurity with AI Tools, Boston 2026 Cohort 04.
+
+Per Scholas course materials, trademarks, logos, presentations, assignment
+prompts, templates, instructor materials, and other proprietary content are
+not included in this repository and are not licensed by this notice.
+
+All included datasets are synthetic and fictional. The included risk-scoring
+model is an educational triage aid and is not a formal enterprise risk
+assessment or professional security recommendation.
