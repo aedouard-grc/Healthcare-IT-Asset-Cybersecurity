@@ -424,10 +424,22 @@ The goal of asset triage is not simply to create a list of devices. It is to hel
 
 ---
 
-## Disclaimer
+## Key Findings
 
-This is an educational cybersecurity portfolio project using fictional and synthetic data.
+- Identified simulated high-priority assets based on criticality, vulnerability indicators, patch status, exposure, and control coverage.
+- Highlighted fictional asset-data quality gaps and lifecycle risks requiring security review.
+- Produced visualizations to support educational, risk-based remediation prioritization.
 
-It is not intended to represent an actual healthcare organization's infrastructure, security posture, patient environment, risk assessment, or compliance status.
+## Educational Disclaimer
 
-The risk scoring and triage methodology are simplified for educational purposes and should not be interpreted as a formal enterprise risk-management methodology.
+This is an educational cybersecurity portfolio project using fictional and synthetic data. It is not intended to represent an actual healthcare organization's infrastructure, security posture, patient environment, risk assessment, or compliance status.
+
+The risk-scoring and triage methodology are simplified for educational purposes and should not be interpreted as a formal enterprise risk-management methodology.
+
+## License and Attribution
+
+Copyright © 2026 Antoine Edouard. All rights reserved.
+
+This repository is shared solely for educational portfolio review. No permission is granted to copy, modify, distribute, sublicense, sell, or otherwise use its contents without prior written permission from the copyright holder.
+
+See [LICENSE](LICENSE) for permitted-use restrictions and [NOTICE.md](NOTICE.md) for Per Scholas educational attribution, intellectual-property boundaries, synthetic-data disclosure, and project limitations.
