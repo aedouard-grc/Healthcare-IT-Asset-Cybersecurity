@@ -299,32 +299,35 @@ The goal is to use AI to enhance learning and problem-solving while maintaining 
 Healthcare-IT-Asset-Cybersecurity/
 │
 ├── README.md
-│
-├── notebooks/
-│   └── Healthcare_IT_Asset_Cybersecurity_Triage.ipynb
+├── LICENSE
+├── NOTICE.md
+├── requirements.txt
 │
 ├── data/
 │   ├── healthcare_it_asset_inventory_analyzed.csv
 │   ├── healthcare_it_asset_triage_report.csv
 │   └── healthcare_security_dashboard.csv
 │
-├── screenshots/
-│   ├── asset_inventory.png
-│   ├── vulnerability_analysis.png
-│   ├── risk_analysis.png
-│   ├── triage_dashboard.png
-│   ├── healthcare_it_assets_by_criticality.png
-│   ├── internet_exposed_vs_internal_assets.png
-│   ├── healthcare_it_asset_condition.png
-│   ├── cybersecurity_asset_triage_priority.png
-│   ├── healthcare_it_asset_risk_score.png
-│   ├── healthcare_it_asset_cybersecurity_summary.png
-│   ├── healthcare_it_asset_cybersecurity_dashboard.png
-│   └── recommended_github_repository_structure.png
+├── notebooks/
+│   └── Healthcare_IT_Asset_Cybersecurity_Triage.ipynb
 │
-└── requirements.txt
+├── scripts/
+│   └── *.py
+│
+└── screenshots/
+    ├── asset_inventory.png
+    ├── vulnerability_analysis.png
+    ├── risk_analysis.png
+    ├── triage_dashboard.png
+    ├── healthcare_it_assets_by_criticality.png
+    ├── internet_exposed_vs_internal_assets.png
+    ├── healthcare_it_asset_condition.png
+    ├── cybersecurity_asset_triage_priority.png
+    ├── healthcare_it_asset_risk_score.png
+    ├── healthcare_it_asset_cybersecurity_summary.png
+    ├── healthcare_it_asset_cybersecurity_dashboard.png
+    └── recommended_github_repository_structure.png
 ```
-
 ---
 
 ## Career Connection
